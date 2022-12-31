@@ -1,5 +1,6 @@
 site_name: Recipes
 theme:
   name: material
+  custom_dir: overrides
   features:
   - navigation.sections
