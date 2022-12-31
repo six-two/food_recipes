@@ -1,0 +1,5 @@
+site_name: Recipes
+theme:
+  name: material
+  features:
+  - navigation.sections
