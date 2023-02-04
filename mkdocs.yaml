@@ -3,4 +3,5 @@ theme:
   name: material
   custom_dir: overrides
   features:
-  - navigation.sections
+  # - navigation.sections
+  - navigation.tabs

@@ -3,7 +3,7 @@
 ## Ingredients
 
 - 200g flour
-- 150g margarine (butter should work too)
+- 150g butter (or margerine)
 - 70g powdered almonds
 - 75g powdered sugar (50g for dough + 25 for covering)
 - 2 bags vanilla sugar (8g each)
