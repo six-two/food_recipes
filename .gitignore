@@ -1,3 +1,6 @@
 # mkdocs output directories
 site/
 public/
+
+# python
+venv/
