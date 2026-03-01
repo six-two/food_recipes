@@ -4,3 +4,6 @@ public/
 
 # python
 venv/
+
+# macOS
+.DS_Store
